@@ -1,4 +1,4 @@
-const host = "http://localhost:8000/api/";
+const host = "https://plantsapi.onrender.com/api/";
 
 export const vars = {
   host,
