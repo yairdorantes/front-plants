@@ -10,7 +10,7 @@ const Main = () => {
           </span>
         </h1>
 
-        <Link to="plants">
+        <Link to="/plants">
           <div className="card mx-auto w-64 mt-20 bg-secondary text-primary-content">
             <div className="card-body">
               <img src={flower} alt="" />
